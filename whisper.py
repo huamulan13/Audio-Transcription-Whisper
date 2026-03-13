@@ -3,7 +3,7 @@ import json
 import os
 from dotenv import load_dotenv
 
-load_dotenv("../.env")
+load_dotenv()
 
 API_KEY = os.getenv("API_KEY")
 API_WISPER_URL = os.getenv("WHISPER_URL")
