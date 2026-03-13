@@ -11,6 +11,13 @@ Proyek ini adalah bagian dari program **Korea-ASEAN Digital Academy (KADA) Batch
 - OpenAI Whisper API
 - Python-dotenv
 
+## Cara Instalasi
+1. Clone repository ini.
+2. Buat file `.env` dan masukkan `API_KEY` serta `WHISPER_URL` kamu.
+3. Install library:
+   ```bash
+   pip install -r requirements.txt
+
 ---
 *Developed by Alena Ghinna Kirana*
 
